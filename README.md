@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/website?color=green&label=Portfolio&style=flat&up_message=Online&url=https://raviprakashdev.github.io/portfolio/)](https://raviprakashdev.github.io/portfolio/)
 ![Visitor Count](https://komarev.com/ghpvc/?username=raviprakashdev&color=green&logo=flat)
 [![Linkedin](https://img.shields.io/badge/raviprakashdev-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/raviprakashdev/)](https://www.linkedin.com/in/raviprakashdev/)
-[![Instagram](https://img.shields.io/badge/raaviprakash01a-black?style=flat&logo=Instagram&logoColor=pink&target=_blank&link=https://www.instagram.com/raviprakash01a/)](https://www.instagram.com/raviprakash01a/)
+[![Instagram](https://img.shields.io/badge/raviprakash01a-black?style=flat&logo=Instagram&logoColor=pink&target=_blank&link=https://www.instagram.com/raviprakash01a/)](https://www.instagram.com/raviprakash01a/)
 
 <br>
 
